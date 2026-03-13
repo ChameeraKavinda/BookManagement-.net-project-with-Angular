@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A8rDvvx1z68=",
+  "dgSpecHash": "1q8D82uOEO0=",
   "success": true,
-  "projectFilePath": "C:\\Book\\BookManagement\\BookManagement\\BookManagement.csproj",
+  "projectFilePath": "C:\\Book_Mnagement\\BookManagement\\BookManagement\\BookManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chame\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\chame\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
