@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Book\\BookManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE6DD7-AA50-818D-3B8E-BB1FBFD72AE0}|BookManagement\\BookManagement.csproj|c:\\book\\bookmanagement\\bookmanagement\\data\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDE6DD7-AA50-818D-3B8E-BB1FBFD72AE0}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\data\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Project\\Blanket-Mangement-System-main\\Blanket-Mangement-System-main\\CozyComfortApi\\Data\\AdminRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Project\\Blanket-Mangement-System-main\\Blanket-Mangement-System-main\\CozyComfortApi\\Data\\IAdminRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Project\\Blanket-Mangement-System-main\\Blanket-Mangement-System-main\\CozyComfortApi\\DTO\\AdminCreateDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Project\\Blanket-Mangement-System-main\\Blanket-Mangement-System-main\\CozyComfortApi\\DTO\\AdminReadDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Project\\Blanket-Mangement-System-main\\Blanket-Mangement-System-main\\CozyComfortApi\\Controllers\\AdminControllerr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE6DD7-AA50-818D-3B8E-BB1FBFD72AE0}|BookManagement\\BookManagement.csproj|c:\\book\\bookmanagement\\bookmanagement\\bookmanagement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2CDE6DD7-AA50-818D-3B8E-BB1FBFD72AE0}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\bookmanagement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE6DD7-AA50-818D-3B8E-BB1FBFD72AE0}|BookManagement\\BookManagement.csproj|c:\\book\\bookmanagement\\bookmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2CDE6DD7-AA50-818D-3B8E-BB1FBFD72AE0}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE6DD7-AA50-818D-3B8E-BB1FBFD72AE0}|BookManagement\\BookManagement.csproj|c:\\book\\bookmanagement\\bookmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDE6DD7-AA50-818D-3B8E-BB1FBFD72AE0}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE6DD7-AA50-818D-3B8E-BB1FBFD72AE0}|BookManagement\\BookManagement.csproj|c:\\book\\bookmanagement\\bookmanagement\\dto\\bookreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDE6DD7-AA50-818D-3B8E-BB1FBFD72AE0}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\dto\\bookreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE6DD7-AA50-818D-3B8E-BB1FBFD72AE0}|BookManagement\\BookManagement.csproj|c:\\book\\bookmanagement\\bookmanagement\\dto\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDE6DD7-AA50-818D-3B8E-BB1FBFD72AE0}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\dto\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE6DD7-AA50-818D-3B8E-BB1FBFD72AE0}|BookManagement\\BookManagement.csproj|c:\\book\\bookmanagement\\bookmanagement\\data\\ibookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDE6DD7-AA50-818D-3B8E-BB1FBFD72AE0}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\data\\ibookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE6DD7-AA50-818D-3B8E-BB1FBFD72AE0}|BookManagement\\BookManagement.csproj|c:\\book\\bookmanagement\\bookmanagement\\data\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDE6DD7-AA50-818D-3B8E-BB1FBFD72AE0}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\data\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE6DD7-AA50-818D-3B8E-BB1FBFD72AE0}|BookManagement\\BookManagement.csproj|c:\\book\\bookmanagement\\bookmanagement\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDE6DD7-AA50-818D-3B8E-BB1FBFD72AE0}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE6DD7-AA50-818D-3B8E-BB1FBFD72AE0}|BookManagement\\BookManagement.csproj|c:\\book\\bookmanagement\\bookmanagement\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDE6DD7-AA50-818D-3B8E-BB1FBFD72AE0}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE6DD7-AA50-818D-3B8E-BB1FBFD72AE0}|BookManagement\\BookManagement.csproj|c:\\book\\bookmanagement\\bookmanagement\\profile\\bookprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDE6DD7-AA50-818D-3B8E-BB1FBFD72AE0}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\profile\\bookprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE6DD7-AA50-818D-3B8E-BB1FBFD72AE0}|BookManagement\\BookManagement.csproj|c:\\book\\bookmanagement\\bookmanagement\\bookmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2CDE6DD7-AA50-818D-3B8E-BB1FBFD72AE0}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\bookmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookManagement.http",
+              "DocumentMoniker": "C:\\Book\\BookManagement\\BookManagement\\BookManagement.http",
+              "RelativeDocumentMoniker": "BookManagement\\BookManagement.http",
+              "ToolTip": "C:\\Book\\BookManagement\\BookManagement\\BookManagement.http",
+              "RelativeToolTip": "BookManagement\\BookManagement.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-03-12T17:53:46.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Book\\BookManagement\\BookManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "BookManagement\\appsettings.json",
+              "ToolTip": "C:\\Book\\BookManagement\\BookManagement\\appsettings.json",
+              "RelativeToolTip": "BookManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-12T17:53:36.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Book\\BookManagement\\BookManagement\\Program.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Program.cs",
+              "ToolTip": "C:\\Book\\BookManagement\\BookManagement\\Program.cs",
+              "RelativeToolTip": "BookManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:48:39.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookReadDTO.cs",
+              "DocumentMoniker": "C:\\Book\\BookManagement\\BookManagement\\DTO\\BookReadDTO.cs",
+              "RelativeDocumentMoniker": "BookManagement\\DTO\\BookReadDTO.cs",
+              "ToolTip": "C:\\Book\\BookManagement\\BookManagement\\DTO\\BookReadDTO.cs",
+              "RelativeToolTip": "BookManagement\\DTO\\BookReadDTO.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA0wAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:47:30.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookCreateDTO.cs",
+              "DocumentMoniker": "C:\\Book\\BookManagement\\BookManagement\\DTO\\BookCreateDTO.cs",
+              "RelativeDocumentMoniker": "BookManagement\\DTO\\BookCreateDTO.cs",
+              "ToolTip": "C:\\Book\\BookManagement\\BookManagement\\DTO\\BookCreateDTO.cs",
+              "RelativeToolTip": "BookManagement\\DTO\\BookCreateDTO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:47:29.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAdminRepo.cs",
+              "DocumentMoniker": "C:\\Project\\Blanket-Mangement-System-main\\Blanket-Mangement-System-main\\CozyComfortApi\\Data\\IAdminRepo.cs",
+              "RelativeDocumentMoniker": "..\\..\\Project\\Blanket-Mangement-System-main\\Blanket-Mangement-System-main\\CozyComfortApi\\Data\\IAdminRepo.cs",
+              "ToolTip": "C:\\Project\\Blanket-Mangement-System-main\\Blanket-Mangement-System-main\\CozyComfortApi\\Data\\IAdminRepo.cs",
+              "RelativeToolTip": "..\\..\\Project\\Blanket-Mangement-System-main\\Blanket-Mangement-System-main\\CozyComfortApi\\Data\\IAdminRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T14:34:08.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBookRepo.cs",
+              "DocumentMoniker": "C:\\Book\\BookManagement\\BookManagement\\Data\\IBookRepo.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Data\\IBookRepo.cs",
+              "ToolTip": "C:\\Book\\BookManagement\\BookManagement\\Data\\IBookRepo.cs",
+              "RelativeToolTip": "BookManagement\\Data\\IBookRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T14:07:27.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookRepo.cs",
+              "DocumentMoniker": "C:\\Book\\BookManagement\\BookManagement\\Data\\BookRepo.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Data\\BookRepo.cs",
+              "ToolTip": "C:\\Book\\BookManagement\\BookManagement\\Data\\BookRepo.cs",
+              "RelativeToolTip": "BookManagement\\Data\\BookRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T14:06:34.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminControllerr.cs",
+              "DocumentMoniker": "C:\\Project\\Blanket-Mangement-System-main\\Blanket-Mangement-System-main\\CozyComfortApi\\Controllers\\AdminControllerr.cs",
+              "RelativeDocumentMoniker": "..\\..\\Project\\Blanket-Mangement-System-main\\Blanket-Mangement-System-main\\CozyComfortApi\\Controllers\\AdminControllerr.cs",
+              "ToolTip": "C:\\Project\\Blanket-Mangement-System-main\\Blanket-Mangement-System-main\\CozyComfortApi\\Controllers\\AdminControllerr.cs",
+              "RelativeToolTip": "..\\..\\Project\\Blanket-Mangement-System-main\\Blanket-Mangement-System-main\\CozyComfortApi\\Controllers\\AdminControllerr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T14:05:16.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Book\\BookManagement\\BookManagement\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Model\\Book.cs",
+              "ToolTip": "C:\\Book\\BookManagement\\BookManagement\\Model\\Book.cs",
+              "RelativeToolTip": "BookManagement\\Model\\Book.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T13:52:15.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminRepo.cs",
+              "DocumentMoniker": "C:\\Project\\Blanket-Mangement-System-main\\Blanket-Mangement-System-main\\CozyComfortApi\\Data\\AdminRepo.cs",
+              "RelativeDocumentMoniker": "..\\..\\Project\\Blanket-Mangement-System-main\\Blanket-Mangement-System-main\\CozyComfortApi\\Data\\AdminRepo.cs",
+              "ToolTip": "C:\\Project\\Blanket-Mangement-System-main\\Blanket-Mangement-System-main\\CozyComfortApi\\Data\\AdminRepo.cs",
+              "RelativeToolTip": "..\\..\\Project\\Blanket-Mangement-System-main\\Blanket-Mangement-System-main\\CozyComfortApi\\Data\\AdminRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T14:03:44.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Book\\BookManagement\\BookManagement\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Book\\BookManagement\\BookManagement\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BookManagement\\Controllers\\BookController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwD8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T14:15:01.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookProfile.cs",
+              "DocumentMoniker": "C:\\Book\\BookManagement\\BookManagement\\Profile\\BookProfile.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Profile\\BookProfile.cs",
+              "ToolTip": "C:\\Book\\BookManagement\\BookManagement\\Profile\\BookProfile.cs",
+              "RelativeToolTip": "BookManagement\\Profile\\BookProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T14:15:25.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminReadDTO.cs",
+              "DocumentMoniker": "C:\\Project\\Blanket-Mangement-System-main\\Blanket-Mangement-System-main\\CozyComfortApi\\DTO\\AdminReadDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Project\\Blanket-Mangement-System-main\\Blanket-Mangement-System-main\\CozyComfortApi\\DTO\\AdminReadDTO.cs",
+              "ToolTip": "C:\\Project\\Blanket-Mangement-System-main\\Blanket-Mangement-System-main\\CozyComfortApi\\DTO\\AdminReadDTO.cs",
+              "RelativeToolTip": "..\\..\\Project\\Blanket-Mangement-System-main\\Blanket-Mangement-System-main\\CozyComfortApi\\DTO\\AdminReadDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T14:05:00.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminCreateDTO.cs",
+              "DocumentMoniker": "C:\\Project\\Blanket-Mangement-System-main\\Blanket-Mangement-System-main\\CozyComfortApi\\DTO\\AdminCreateDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Project\\Blanket-Mangement-System-main\\Blanket-Mangement-System-main\\CozyComfortApi\\DTO\\AdminCreateDTO.cs",
+              "ToolTip": "C:\\Project\\Blanket-Mangement-System-main\\Blanket-Mangement-System-main\\CozyComfortApi\\DTO\\AdminCreateDTO.cs",
+              "RelativeToolTip": "..\\..\\Project\\Blanket-Mangement-System-main\\Blanket-Mangement-System-main\\CozyComfortApi\\DTO\\AdminCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T14:04:44.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookdbContext.cs",
+              "DocumentMoniker": "C:\\Book\\BookManagement\\BookManagement\\Data\\BookdbContext.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Data\\BookdbContext.cs",
+              "ToolTip": "C:\\Book\\BookManagement\\BookManagement\\Data\\BookdbContext.cs",
+              "RelativeToolTip": "BookManagement\\Data\\BookdbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T13:49:43.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookManagement.csproj",
+              "DocumentMoniker": "C:\\Book\\BookManagement\\BookManagement\\BookManagement.csproj",
+              "RelativeDocumentMoniker": "BookManagement\\BookManagement.csproj",
+              "ToolTip": "C:\\Book\\BookManagement\\BookManagement\\BookManagement.csproj",
+              "RelativeToolTip": "BookManagement\\BookManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-12T13:46:01.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

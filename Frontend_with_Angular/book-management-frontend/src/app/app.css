@@ -1,0 +1,15 @@
+table.book-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table.book-table th,
+table.book-table td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+
+table.book-table th {
+  background: rgba(0, 0, 0, 0.05);
+}
