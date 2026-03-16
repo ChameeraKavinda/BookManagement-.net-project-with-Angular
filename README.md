@@ -2,7 +2,7 @@
 
 ## 📖 Project Overview
 
-This project is a **Book Management Web Application** developed for a **Software Engineering Internship Assignment**.
+This project is a **Book Management Web Application**.
 
 The system allows users to manage a collection of books by performing basic **CRUD operations** (Create, Read, Update, Delete).
 
